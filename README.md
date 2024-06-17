@@ -1,2 +1,2 @@
-# desafio_controle_de_fluxo
-Exercitando conceitos de controle de fluxo.
+# Explorando alguns cenários com fluxos condicionais, repetições e excepcionais.
+
