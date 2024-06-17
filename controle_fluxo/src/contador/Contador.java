@@ -7,7 +7,6 @@ public class Contador {
         Scanner terminal = new Scanner(System.in);
 
         System.out.println("Digite o primeiro número: ");
-
         int primeiroParametro = terminal.nextInt();
 
         System.out.println("Digite o segundo número: ");
